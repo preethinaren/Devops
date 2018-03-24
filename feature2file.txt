@@ -1,2 +1,3 @@
 feature2file-test sample
 modification after stash 
+modification for before stash

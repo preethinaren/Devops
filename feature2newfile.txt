@@ -1,0 +1,1 @@
+feature2newfile-test sample
